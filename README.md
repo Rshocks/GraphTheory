@@ -5,4 +5,4 @@ down off github.
 Then its a case of pulling the repo into whichever file you choose, using command prompt or cmdr to cd to its location, then ensuring jupyter notebook in installed
 correctly and then running it through cmdr or command promt by typing jupyter notebook.
 
-Use git clone then copy ssh into folder you wish to clone files into
+Use git clone then copy ssh into folder you wish to clone files into, or https if ssh not set up.
